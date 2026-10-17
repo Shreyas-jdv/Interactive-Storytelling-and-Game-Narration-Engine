@@ -51,3 +51,9 @@ The Interactive Storytelling and Game Narration Engine is a project designed to 
 ## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue for any bugs or feature requests.
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+You are free to use, modify, and distribute the software in accordance with the terms of the license.
